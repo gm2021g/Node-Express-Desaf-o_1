@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1643486243555,
+    "title": "Cama para perro grande",
+    "description": "Cama para perro grande",
+    "code": 1,
+    "price": "9123.45",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_762595-MLA45712333950_042021-F.webp",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "timestamp": 1643486241115,
+    "title": "Cucha cono iglú para gato",
+    "description": "Cucha cono iglú para gato",
+    "code": 3,
+    "price": 4550.67,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_696416-MLA48637326825_122021-F.webp",
+    "stock": 12
+  },
+  {
+    "id": 4,
+    "timestamp": 1643486243225,
+    "title": "Hamaca de ventana para gato",
+    "description": "Hamaca de ventana para gato",
+    "code": 4,
+    "price": "4560.78",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_606913-MLA44170174674_112020-F.webp",
+    "stock": 33
+  },
+  {
+    "id": 5,
+    "timestamp": 1643486243551,
+    "title": "Cucha para perro grande de exterior",
+    "description": "Cucha para perro grande de exterior",
+    "code": 655,
+    "price": "15999",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_862117-MLA32658375186_102019-F.webp",
+    "stock": 21
+  },
+  {
+    "id": 6,
+    "timestamp": 1643855790691,
+    "title": "almohada gato",
+    "description": "nuevoooo 6",
+    "code": "123",
+    "price": "3333",
+    "thumbnail": "fotos",
+    "stock": "50"
+  }
+]
